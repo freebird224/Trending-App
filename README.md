@@ -26,9 +26,9 @@ La transformation d'images complexes avec un minimum d'utilisation de la mémoir
 
 2- Utilisation de l'application :
 
-1-Télécharger le fichier compressé et décompresser.
-2-Importer le projet dans Android Studio 
-3-Vérifier votre compileSdkVersion dans le fichier gradle. (Personnellement c'était 27). Si c'est pas essayez adapter et synchroniser. 
+1-Télécharger le fichier compressé trending.zip et décompresser.
+2-Importer le projet dans Android Studio.
+3-Vérifier votre compileSdkVersion dans le fichier gradle. (Personnellement c'était 27). Si c'est pas essayez adapter et synchroniser.
 4-Une fois compiler vous vous trouverez sur une interface d'accueil qui contient deux buttons.
 Bouton de réglage : qui n'est pas programmé.
 Bouton Trending : Ce bouton permet d'afficher une autre interface sur laquelle figure la liste des dépositoires. Sur cette page vous pouvez paginer sur autre page car on affiche 100 dépositoires par page. Et vous pouvez également faire retour sur la page d'accueil.
